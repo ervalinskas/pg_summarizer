@@ -12,6 +12,8 @@ beautifulsoup4 = "^4.12.3"
 openai = "^1.17.1"
 tqdm = "^4.66.2"
 tenacity = "^8.2.3"
+tiktoken = "^0.6.0"
+scipy = "^1.13.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.4"
